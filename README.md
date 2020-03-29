@@ -1,1 +1,52 @@
-# Data-Structures
+# Data Structure
+This repository contains my programming assignments for data structure course in Iran University of Technology(IUST)
+
+Instractor: [Sauleh Eetemadi] (http://sauleh.github.io/)
+
+[Cousre Website] (http://sauleh.github.io/ds98)
+
+# Assignments
+## HW1 (Getting Started with Azure DevOps and Test Framework)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A1/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A1/Code)
+## HW2 (Programming Challenges)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A2/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A2/Code)
+## HW3 (More Challenges)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A3/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A3/Code)
+## HW4 (Greedy Algorithms)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A4/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A4/Code)
+## HW5 (Divide and Conqure)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A5/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A5/Code)
+## HW6 (Dynamic Programming 1)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A6/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A6/Code)
+## HW7 (Dynamic Programming 2)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A7/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A7/Code)
+## HW8 (Basic Data Structures)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A8/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A8/Code)
+## HW9 (Priority Queues and Disjoint Sets)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A9/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A9/Code)
+## HW10 (Hash Functions)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A10/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A10/Code)
+## HW11 (Binary Search Trees)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A11/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A11/Code)
+## HW12 (Graphs)
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A12/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Assignments/A12/Code)
+
+# Exams
++ E1
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Exams/Exam1/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Exams/Exam1/Code)
++ E2
+  + [Document] (https://github.com/omidmirzajani/Data-Structures/blob/master/Exams/Exam2/Document)
+  + [Solution] (https://github.com/omidmirzajani/Data-Structures/blob/master/Exams/Exam2/Code)
