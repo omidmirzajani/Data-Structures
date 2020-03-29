@@ -1,9 +1,9 @@
 # Data Structure
 This repository contains my programming assignments for data structure course in Iran University of Technology(IUST)
 
-Instractor: [Sauleh Eetemadi] (http://sauleh.github.io/)
+Instractor: [Sauleh Eetemadi](http://sauleh.github.io/)
 
-[Cousre Website] (http://sauleh.github.io/ds98)
+[Cousre Website](http://sauleh.github.io/ds98)
 
 # Assignments
 ## HW1 (Getting Started with Azure DevOps and Test Framework)
