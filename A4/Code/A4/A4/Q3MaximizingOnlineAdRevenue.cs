@@ -1,0 +1,43 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using TestCommon;
+
+namespace A4
+{
+    public class Q3MaximizingOnlineAdRevenue : Processor
+    {
+        public Q3MaximizingOnlineAdRevenue(string testDataName) : base(testDataName)
+        {}
+
+        public override string Process(string inStr) =>
+            TestTools.Process(inStr, (Func<long, long[], long[], long>) Solve);
+
+
+        public virtual long Solve(long slotCount, long[] adRevenue, long[] averageDailyClick)
+        {
+            for (int i = 0; i < slotCount; i++)
+            {
+                for (int j = i + 1; j < slotCount; j++)
+                {
+                    if (adRevenue[j] > adRevenue[i])
+                    {
+                        (adRevenue[i], adRevenue[j]) = (adRevenue[j], adRevenue[i]);
+                    }
+                    if (averageDailyClick[j] > averageDailyClick[i])
+                    {
+                        (averageDailyClick[i], averageDailyClick[j]) = (averageDailyClick[j], averageDailyClick[i]);
+                    }
+                }
+            }
+            
+            long count = 0;
+            for (int i = 0; i < slotCount; i++)
+                count += adRevenue[i] * averageDailyClick[i];
+            return count;
+
+
+        }
+    }
+}
