@@ -1,0 +1,17 @@
+C:\git\DS98991\DS98991\E1b\E1b\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\DS98991\DS98991\E1b\E1b\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\DS98991\DS98991\E1b\E1b\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\DS98991\DS98991\E1b\E1b\bin\Debug\netcoreapp2.2\E1b.deps.json
+C:\git\DS98991\DS98991\E1b\E1b\bin\Debug\netcoreapp2.2\E1b.runtimeconfig.json
+C:\git\DS98991\DS98991\E1b\E1b\bin\Debug\netcoreapp2.2\E1b.runtimeconfig.dev.json
+C:\git\DS98991\DS98991\E1b\E1b\bin\Debug\netcoreapp2.2\E1b.dll
+C:\git\DS98991\DS98991\E1b\E1b\bin\Debug\netcoreapp2.2\E1b.pdb
+C:\git\DS98991\DS98991\E1b\E1b\bin\Debug\netcoreapp2.2\TestCommon.dll
+C:\git\DS98991\DS98991\E1b\E1b\bin\Debug\netcoreapp2.2\TestCommon.pdb
+C:\git\DS98991\DS98991\E1b\E1b\obj\Debug\netcoreapp2.2\E1b.csprojAssemblyReference.cache
+C:\git\DS98991\DS98991\E1b\E1b\obj\Debug\netcoreapp2.2\E1b.csproj.CoreCompileInputs.cache
+C:\git\DS98991\DS98991\E1b\E1b\obj\Debug\netcoreapp2.2\E1b.AssemblyInfoInputs.cache
+C:\git\DS98991\DS98991\E1b\E1b\obj\Debug\netcoreapp2.2\E1b.AssemblyInfo.cs
+C:\git\DS98991\DS98991\E1b\E1b\obj\Debug\netcoreapp2.2\E1b.csproj.CopyComplete
+C:\git\DS98991\DS98991\E1b\E1b\obj\Debug\netcoreapp2.2\E1b.dll
+C:\git\DS98991\DS98991\E1b\E1b\obj\Debug\netcoreapp2.2\E1b.pdb
